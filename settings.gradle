@@ -1,0 +1,3 @@
+include ':xhlib'
+include ':app'
+rootProject.name = "TemplateProject"
